@@ -1,1 +1,2 @@
-📜script: loadstring(game:HttpGet('https://rentry.co/pzmeoo8d/raw',true))()
+📜script:
+loadstring(game:HttpGet('https://rentry.co/pzmeoo8d/raw',true))()
